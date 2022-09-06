@@ -1,0 +1,55 @@
+/* navbar */
+#brand-img {
+  width: 246px;
+  height: 96px;
+  margin-left: 32px;
+  margin-top: -12px;
+}
+
+.hover-shadow:hover {
+  box-shadow: 2px 2px;
+  opacity: 75%;
+}
+
+.nav-link-text {
+  text-decoration: none;
+  color: inherit;
+}
+
+#__react-alert__ div div div {
+  width: 500px !important;
+}
+
+/* Home */
+.home-bold-facts {
+  color: #91ba4f;
+  font-family: "Poppins", sans-serif;
+}
+
+.home-facts-img {
+  position: relative;
+  left: 20px;
+}
+
+.facts-para {
+  font-family: "Open Sans", sans-serif;
+  text-align: "justify";
+}
+
+.home-1st-container {
+  position: fixed;
+  /* background-image: url('../home/NatureBackgroundsvg.svg') */
+}
+
+.home-2nd-container {
+  margin-top: 50px;
+  width: 70%;
+}
+
+.home-bold-header {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: #396336;
+}
+
+/*# sourceMappingURL=custom.css.map */
